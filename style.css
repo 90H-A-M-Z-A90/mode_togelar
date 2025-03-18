@@ -1,0 +1,25 @@
+.change{
+    background-color: aqua;
+    border-radius: 5px ;
+color: royalblue;
+font-weight: 600;
+padding: 10px;
+border: none;
+}
+.change:hover{
+    cursor: pointer;
+    background-color: rgb(223, 9, 9);
+  color: black;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 100vh;
+    background-color: aqua;
+}
+.mode{
+    color: red;
+}
